@@ -1,0 +1,9 @@
+pymupdf
+langchain
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
+ollama
+langchain-ollama
